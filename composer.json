@@ -1,4 +1,6 @@
 {
+    
+    testset
     "name": "user/test-gitlab-bug",
     "license": "proprietary",
     "type": "project",
